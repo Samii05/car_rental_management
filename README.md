@@ -1,8 +1,11 @@
 🚗 Car Rental Management Web Application
 
+
 📌 Overview
 
 This web application is designed to manage a car rental business efficiently. It allows users to:
+
+
 
 ✅ Add new cars and customers to the database.
 
@@ -13,6 +16,9 @@ This web application is designed to manage a car rental business efficiently. It
 💰 Retrieve location price using a stored procedure.
 
 🔄 Update location prices and rental records.
+
+
+
 
 ⚙️ Installation Guide
 
@@ -26,6 +32,8 @@ Download and install WAMP.
 
 🌐 Web Browser to run the application.
 
+
+
 🛠️ Setup Steps
 
 1️⃣ Place the Project in the WAMP Server Directory
@@ -38,6 +46,8 @@ Download and install WAMP.
 
 3️⃣ Import the Database
 
+
+
 You can import the database using phpMyAdmin or MySQL Workbench.
 
 Using phpMyAdmin:
@@ -48,6 +58,8 @@ Using phpMyAdmin:
 
 📂 Click on "Import" and upload the provided SQL file from the database folder.
 
+
+
 Using MySQL Workbench:
 
 🏗️ Open MySQL Workbench and connect to the MySQL server.
@@ -57,6 +69,8 @@ Using MySQL Workbench:
 📥 Select "Import from Self-Contained File" and choose the SQL file from the database folder.
 
 ✅ Click "Start Import" to complete the process.
+
+
 
 4️⃣ Configure Database Connection
 
@@ -76,6 +90,8 @@ $database = 'car_rental';
 🌐 Open a web browser and go to http://localhost/your_project_folder/
 
 🎉 You should see the application interface.
+
+
 
 🚀 Features
 
@@ -100,6 +116,8 @@ $database = 'car_rental';
 📊 Retrieve rental price using stored procedures.
 
 ✏️ Update rental prices for specific cars.
+
+
 
 ℹ️ Notes
 

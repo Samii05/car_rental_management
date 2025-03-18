@@ -112,3 +112,7 @@ $database = 'car_rental';
 📜 License
 
 This project is licensed under MIT License.
+
+
+AUTHOR
+Sami Ramzi REZIG

@@ -20,7 +20,7 @@ This web application is designed to manage a car rental business efficiently. It
 
 🖥️ WAMP Server (or any local server with PHP & MySQL)
 
-Download and install WAMP from here.
+Download and install WAMP.
 
 🗄️ MySQL Database (can be managed with phpMyAdmin or MySQL Workbench).
 

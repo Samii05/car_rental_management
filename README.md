@@ -123,7 +123,7 @@ $database = 'car_rental';
 
 ⚠️ Ensure WAMP is running before accessing the web app.
 
-🔑 If you change database credentials, update the db_connection.php file accordingly.
+🔑 If you change database credentials, update the connectdb.php file accordingly.
 
 🛠️ Use either MySQL Workbench or phpMyAdmin to manage your database effectively.
 

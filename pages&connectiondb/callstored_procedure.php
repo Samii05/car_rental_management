@@ -5,7 +5,7 @@
     <title>Recherche Prix d'une voiture</title>
     <style>
         /* Styles généraux pour le document */
-body {
+body {                     
     font-family: Arial, sans-serif;
     background-color: #f8f9fa; /* Couleur de fond plus claire */
     color: #343a40; /* Couleur de texte principale */
